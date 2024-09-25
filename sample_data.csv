@@ -1,0 +1,4 @@
+op,start,end
+find,1,5
+find,3,8
+delete,2,9
